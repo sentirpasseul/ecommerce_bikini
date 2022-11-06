@@ -1,0 +1,30 @@
+.header {
+    width: 1440px;
+    margin: 0 auto;
+}
+.container_header {
+}
+.header__inner {
+    display: flex;
+    justify-content: space-around;
+    padding: 71px 52px 71px 52px;
+
+}
+.nav {
+    text-align: center;
+    justify-content: center;
+
+}
+.auth {
+    display: flex;
+}
+
+.auth_el {
+    font-size: 20px;
+    margin: 0px 24px 0px 24px;
+}
+.auth_el_stick {
+    height: 30px;
+    width: 1px;
+    background-color: black;
+}
